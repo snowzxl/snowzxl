@@ -1,14 +1,8 @@
-<img align="center" src="assets/Hello2.svg" width="80%" />
+<img align="center" src="assets/Hello.svg" width="100%" />
 
  Hi there! I'm snowzxl.
-
-- 🏢：Embedded Engineer
-
-- 🎯：Never Too Old to Learn
-
-- 💭：Be Kind
-
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=snowzxl" width="40%" />
+- Embedded Engineer
+- Never Too Old to Learn; Be Kind.
 
 <!---
 snowzxl/snowzxl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
