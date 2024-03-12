@@ -1,8 +1,10 @@
-<img align="center" src="assets/Hello.svg" width="100%" />
+<img align="center" src="assets/Hello.svg" width="80%" />
 
- Hi there! I'm snowzxl.
-- Embedded Engineer
+Hi there😼! I'm snowzxl.
+- Electrical engineering.
+- Interested in Embedded System Software, Web Development, Open Source technology...
 - Never Too Old to Learn; Be Kind.
+- [Strava](https://www.strava.com/athletes/96895812) | [Blog]() 
 
 <!---
 snowzxl/snowzxl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
