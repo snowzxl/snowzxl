@@ -1,8 +1,4 @@
-
-
----
-
-<img align="right" src="assets/Hello1.svg" width="40%" />
+<img align="center" src="assets/Hello2.svg" width="80%" />
 
  Hi there! I'm snowzxl.
 
@@ -12,7 +8,7 @@
 
 - 💭：Be Kind
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=snowzxl" width="40%" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=snowzxl" width="40%" />
 
 <!---
 snowzxl/snowzxl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
