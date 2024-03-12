@@ -1,4 +1,4 @@
-<img align="center" src="assets/Hello.svg" width="80%" />
+<img align="center" src="assets/Hello.svg" width="100%" />
 
 Hi there😼! I'm snowzxl.
 - Electrical engineering.
