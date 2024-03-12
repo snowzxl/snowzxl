@@ -1,6 +1,6 @@
 <img align="center" src="assets/Hello.svg" width="100%" />
 
-Hi there😼! I'm snowzxl.
+Hi there👋! I'm snowzxl.
 - Electrical engineering.
 - Interested in Embedded System Software, Web Development, Open Source technology...
 - Never Too Old to Learn; Be Kind.
